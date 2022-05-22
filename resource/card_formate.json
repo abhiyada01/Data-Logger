@@ -1,0 +1,351 @@
+{
+  "HE317221-35.20": {
+    "Card Name":"Wifi Card",
+    "address": "D:\\Data_base Storage\\mg\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE317161-30.22": {
+    "Card Name": "WC BMS",
+    "address": "D:\\Data_base Storage\\wcbms\\",
+    "FAULTS Observed": ["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316991": {
+    "Card Name":"48-12V Card",
+    "address": "D:\\Data_base Storage\\lite\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE314381": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316621": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE314581-27.10": {
+    "Card Name":"ACIF",
+    "address": "D:\\Data_base Storage\\acif\\",
+    "FAULTS Observed":["NGO","LVD/Relay  test fail","voltage test fail","PFC test fail","CAN test fail",
+      "Slave ID Test Fail-ACIF","Hardware Test Fail- ACIF","Others"] },
+  "HE314583-27.10": {
+    "Card Name":"ACIF",
+    "address": "D:\\Data_base Storage\\acif\\",
+    "FAULTS Observed":["NGO","LVD/Relay  test fail","voltage test fail","PFC test fail","CAN test fail",
+      "Slave ID Test Fail-ACIF","Hardware Test Fail- ACIF","Others"] },
+  "HE316711-27.17": {
+    "Card Name":"ACIF",
+    "address": "D:\\Data_base Storage\\acif\\",
+    "FAULTS Observed":["NGO","LVD/Relay  test fail","voltage test fail","PFC test fail","CAN test fail",
+      "Slave ID Test Fail-ACIF","Hardware Test Fail- ACIF","Others"] },
+  "HE316122-30.18": {
+    "Card Name":"ION BMS",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PHYSICAL","COMM FAIL","SLEEP FAIL","BLUETOOTH","IGNITION FAIL","VOLTAGE FAIL","BALANCING FAIL",
+      "BMS OUTDATED","PDU LOCK","BURN/BLAST","TEMPERATURE FAIL","FW FAIL","CHARGE FAIL","DISCHARGE FAIL","OT FAIL",
+      "PROGRAM NOT UPLOADING","CONNECTOR ISSUE","Other"]},
+  "HE316121-30.18": {
+    "Card Name":"ION BMS",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PHYSICAL","COMM FAIL","SLEEP FAIL","BLUETOOTH","IGNITION FAIL","VOLTAGE FAIL","BALANCING FAIL",
+      "BMS OUTDATED","PDU LOCK","BURN/BLAST","TEMPERATURE FAIL","FW FAIL","CHARGE FAIL","DISCHARGE FAIL","OT FAIL",
+      "PROGRAM NOT UPLOADING","CONNECTOR ISSUE","Other"]},
+  "HE316123-30.18": {
+    "Card Name":"ION BMS",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PHYSICAL","COMM FAIL","SLEEP FAIL","BLUETOOTH","IGNITION FAIL","VOLTAGE FAIL","BALANCING FAIL",
+      "BMS OUTDATED","PDU LOCK","BURN/BLAST","TEMPERATURE FAIL","FW FAIL","CHARGE FAIL","DISCHARGE FAIL","OT FAIL",
+      "PROGRAM NOT UPLOADING","CONNECTOR ISSUE","Other"]},
+  "HE315741-31.12": {
+    "Card Name":"Control card",
+    "address": "D:\\Data_base Storage\\cc\\",
+    "FAULTS Observed":["3.3HV Fail","5V HV","5V ISO","12V LV","TP 16 fail","TP 14 fail","PFC DRIVE FAIL","llc drive at 48 v fail",
+      "llc drive at 56 v fail","temp pfc","temp dcdc","temp synch","output 48 V","output 56 V","physical","CAN FAIL","Other"]
+  },
+  "HE315451-20.28": {
+    "Card Name":"Control card",
+    "address": "D:\\Data_base Storage\\cc\\",
+    "FAULTS Observed":["3.3HV Fail","5V HV","5V ISO","12V LV","TP 16 fail","TP 14 fail","PFC DRIVE FAIL","llc drive at 48 v fail",
+      "llc drive at 56 v fail","temp pfc","temp dcdc","temp synch","output 48 V","output 56 V","physical","CAN FAIL","Other"]
+  },
+  "HE315451-20.23": {
+    "Card Name":"Control card",
+    "address": "D:\\Data_base Storage\\cc\\",
+    "FAULTS Observed":["3.3HV Fail","5V HV","5V ISO","12V LV","TP 16 fail","TP 14 fail","PFC DRIVE FAIL","llc drive at 48 v fail",
+      "llc drive at 56 v fail","temp pfc","temp dcdc","temp synch","output 48 V","output 56 V","physical","CAN FAIL","Other"]
+  },
+  "HE315451-20.22": {
+    "Card Name":"Control card",
+    "address": "D:\\Data_base Storage\\cc\\",
+    "FAULTS Observed":["3.3HV Fail","5V HV","5V ISO","12V LV","TP 16 fail","TP 14 fail","PFC DRIVE FAIL","llc drive at 48 v fail",
+      "llc drive at 56 v fail","temp pfc","temp dcdc","temp synch","output 48 V","output 56 V","physical","CAN FAIL","Other"]
+  },
+  "HE316271-20.31": {
+    "Card Name":"Control card",
+    "address": "D:\\Data_base Storage\\cc\\",
+    "FAULTS Observed":["3.3HV Fail","5V HV","5V ISO","12V LV","TP 16 fail","TP 14 fail","PFC DRIVE FAIL","llc drive at 48 v fail",
+      "llc drive at 56 v fail","temp pfc","temp dcdc","temp synch","output 48 V","output 56 V","physical","CAN FAIL","Other"]
+  },
+  "HE315941-20.24": {
+    "Card Name":"Control card",
+    "address": "D:\\Data_base Storage\\cc\\",
+    "FAULTS Observed":["3.3HV Fail","5V HV","5V ISO","12V LV","TP 16 fail","TP 14 fail","PFC DRIVE FAIL","llc drive at 48 v fail",
+      "llc drive at 56 v fail","temp pfc","temp dcdc","temp synch","output 48 V","output 56 V","physical","CAN FAIL","Other"]
+  },
+  "HE315501-24.15": {
+    "Card Name":"DCIF",
+    "address": "D:\\Data_base Storage\\dcif\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE315431-24.14": {
+    "Card Name":"DCIF",
+    "address": "D:\\Data_base Storage\\dcif\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE315091-24.12": {
+    "Card Name":"DCIF",
+    "address": "D:\\Data_base Storage\\dcif\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316341-24.16": {
+    "Card Name":"DCIO",
+    "address": "D:\\Data_base Storage\\dcio\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316345-24.16": {
+    "Card Name":"DCIO",
+    "address": "D:\\Data_base Storage\\dcio\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316343-24.16": {
+    "Card Name":"DCIO",
+    "address": "D:\\Data_base Storage\\dcio\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316344-24.16": {
+    "Card Name":"DCIO",
+    "address": "D:\\Data_base Storage\\dcio\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316342-24.16": {
+    "Card Name":"DCIO",
+    "address": "D:\\Data_base Storage\\dcio\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE314181-29.11": {"Card Name":"DGBC",
+    "address": "D:\\Data_base Storage\\dgbc\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+},
+  "HE314181-29.10":{"Card Name":"DGBC",
+    "address": "D:\\Data_base Storage\\dgbc\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+},
+    "HE315921-37.15": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315921-30.14": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE313931": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315191-40.10": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE314391": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE314321-27.11": {"Card Name":"HVLV",
+    "address": "D:\\Data_base Storage\\hvlv\\",
+    "FAULTS Observed":["NGO","LVD/Relay test fail","CAN test fail","Programming fail","High Current","Programming fail","High Current","Others"]
+
+  },
+  "HE316221-27.14": {"Card Name":"HVLV",
+    "address": "D:\\Data_base Storage\\hvlv\\",
+    "FAULTS Observed":["NGO","LVD/Relay test fail","CAN test fail","Programming fail","High Current","Programming fail","High Current","Others"]
+
+  },
+  "HE314351-27.12": {"Card Name":"HVLV",
+    "address": "D:\\Data_base Storage\\hvlv\\",
+    "FAULTS Observed":["NGO","LVD/Relay test fail","CAN test fail","Programming fail","High Current","Programming fail","High Current","Others"]
+
+  },
+  "HE316532": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316181": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316782": {
+    "Card Name":"Lite BMS",
+    "address": "D:\\Data_base Storage\\lite\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316781": {
+    "Card Name":"Lite BMS",
+    "address": "D:\\Data_base Storage\\lite\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE314302": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315731": {
+    "Card Name":"MBO",
+    "address": "D:\\Data_base Storage\\mbo\\",
+    "FAULTS Observed":["12V_HV Fail","12V_UL Fail","5V_UL Fail","All O/P Fail","CAN Error","ISO 5V UR Fail",
+      "LLC Drive Fail","Not Getting ON","O/P 48V Fail","O/P 56V Fail","PFC Drive Fail","Program Issue","Other"]
+  },
+  "HE315441": {
+    "Card Name":"MBO",
+    "address": "D:\\Data_base Storage\\mbo\\",
+    "FAULTS Observed":["12V_HV Fail","12V_UL Fail","5V_UL Fail","All O/P Fail","CAN Error","ISO 5V UR Fail",
+      "LLC Drive Fail","Not Getting ON","O/P 48V Fail","O/P 56V Fail","PFC Drive Fail","Program Issue","Other"]
+  },
+  "HE315471": {
+    "Card Name":"MBO",
+    "address": "D:\\Data_base Storage\\mbo\\",
+    "FAULTS Observed":["12V_HV Fail","12V_UL Fail","5V_UL Fail","All O/P Fail","CAN Error","ISO 5V UR Fail",
+      "LLC Drive Fail","Not Getting ON","O/P 48V Fail","O/P 56V Fail","PFC Drive Fail","Program Issue","Other"]
+  },
+  "HE315781": {
+    "Card Name":"MBO",
+    "address": "D:\\Data_base Storage\\mbo\\",
+    "FAULTS Observed":["12V_HV Fail","12V_UL Fail","5V_UL Fail","All O/P Fail","CAN Error","ISO 5V UR Fail",
+      "LLC Drive Fail","Not Getting ON","O/P 48V Fail","O/P 56V Fail","PFC Drive Fail","Program Issue","Other"]
+  },
+  "HE316231": {
+    "Card Name":"MBO",
+    "address": "D:\\Data_base Storage\\mbo\\",
+    "FAULTS Observed":["12V_HV Fail","12V_UL Fail","5V_UL Fail","All O/P Fail","CAN Error","ISO 5V UR Fail",
+      "LLC Drive Fail","Not Getting ON","O/P 48V Fail","O/P 56V Fail","PFC Drive Fail","Program Issue","Other"]
+  },
+  "HE316301": {
+    "Card Name":"EVS Ring LED",
+    "address": "D:\\Data_base Storage\\evs card\\",
+    "FAULTS Observed":["Debug port test","Energy Meter","Wifi comm.","LCD Comm.","Relay Port test" ,"Leakage current",
+      "Input current","Emergency SPD","Voltage read test","EPPROM","Wifi Reset Ckt","RTC","PWM","RGB Test fail",
+      "Display test fail","Boot UP test","GSM Network Registration"]},
+  "HE316401-35.16": {
+    "Card Name":"EVS Ring LCD",
+    "address": "D:\\Data_base Storage\\evs card\\",
+    "FAULTS Observed":["Debug port test","Energy Meter","Wifi comm.","LCD Comm.","Relay Port test" ,"Leakage current",
+      "Input current","Emergency SPD","Voltage read test","EPPROM","Wifi Reset Ckt","RTC","PWM","RGB Test fail",
+      "Display test fail","Boot UP test","GSM Network Registration"]},
+  "HE316291-35.12": {
+    "Card Name":"EVS Main Board",
+    "address": "D:\\Data_base Storage\\evs card\\",
+    "FAULTS Observed":["Debug port test","Energy Meter","Wifi comm.","LCD Comm.","Relay Port test" ,"Leakage current",
+      "Input current","Emergency SPD","Voltage read test","EPPROM","Wifi Reset Ckt","RTC","PWM","RGB Test fail",
+      "Display test fail","Boot UP test","GSM Network Registration"]},
+  "HE316211-35.10": {
+    "Card Name":"EVS Compact Board",
+    "address": "D:\\Data_base Storage\\evs card\\",
+    "FAULTS Observed":["Debug port test","Energy Meter","Wifi comm.","LCD Comm.","Relay Port test" ,"Leakage current",
+      "Input current","Emergency SPD","Voltage read test","EPPROM","Wifi Reset Ckt","RTC","PWM","RGB Test fail",
+      "Display test fail","Boot UP test","GSM Network Registration"]},
+  "HE317171-35.12": {
+    "Card Name":"EVS Main Board",
+    "address": "D:\\Data_base Storage\\evs card\\",
+    "FAULTS Observed":["Debug port test","Energy Meter","Wifi comm.","LCD Comm.","Relay Port test" ,"Leakage current",
+      "Input current","Emergency SPD","Voltage read test","EPPROM","Wifi Reset Ckt","RTC","PWM","RGB Test fail",
+      "Display test fail","Boot UP test","GSM Network Registration"]},
+  "HE317221-35.10": {
+    "Card Name":"EVS Wifi Card",
+    "address": "D:\\Data_base Storage\\evs card\\",
+    "FAULTS Observed":["Debug port test","Energy Meter","Wifi comm.","LCD Comm.","Relay Port test" ,"Leakage current",
+      "Input current","Emergency SPD","Voltage read test","EPPROM","Wifi Reset Ckt","RTC","PWM","RGB Test fail",
+      "Display test fail","Boot UP test","GSM Network Registration"]},
+  "HE314142": {
+    "Card Name":"NMS",
+    "address": "D:\\Data_base Storage\\nms\\",
+    "FAULTS Observed":["NGO", "SMS Not coming", "Others"]},
+  "HE315411-25.10": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316152": {
+    "Card Name":"ION PDU",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PDU LOCK","IGNITION FAIL","UNDER TEMPERATURE","OVER TEMP","PRE CHARGE ERROR","BURN/BLAST",
+      "SCREW HOLDER ISSUE",	"MOSFET SHORT","CHARGING FAIL","DISCHARGING FAIL","CONNECTOR ISSUE","Physical",	"Other"]},
+  "HE316154": {
+    "Card Name":"ION PDU",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PDU LOCK","IGNITION FAIL","UNDER TEMPERATURE","OVER TEMP","PRE CHARGE ERROR","BURN/BLAST",
+      "SCREW HOLDER ISSUE",	"MOSFET SHORT","CHARGING FAIL","DISCHARGING FAIL","CONNECTOR ISSUE","Physical",	"Other"]},
+  "HE316155": {
+    "Card Name":"ION PDU",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PDU LOCK","IGNITION FAIL","UNDER TEMPERATURE","OVER TEMP","PRE CHARGE ERROR","BURN/BLAST",
+      "SCREW HOLDER ISSUE",	"MOSFET SHORT","CHARGING FAIL","DISCHARGING FAIL","CONNECTOR ISSUE","Physical",	"Other"]},
+  "HE316156": {
+    "Card Name":"ION PDU",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PDU LOCK","IGNITION FAIL","UNDER TEMPERATURE","OVER TEMP","PRE CHARGE ERROR","BURN/BLAST",
+      "SCREW HOLDER ISSUE",	"MOSFET SHORT","CHARGING FAIL","DISCHARGING FAIL","CONNECTOR ISSUE","Physical",	"Other"]},
+  "HE316157": {
+    "Card Name":"ION PDU",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PDU LOCK","IGNITION FAIL","UNDER TEMPERATURE","OVER TEMP","PRE CHARGE ERROR","BURN/BLAST",
+      "SCREW HOLDER ISSUE",	"MOSFET SHORT","CHARGING FAIL","DISCHARGING FAIL","CONNECTOR ISSUE","Physical",	"Other"]},
+  "HE316153": {
+    "Card Name":"ION PDU",
+    "address": "D:\\Data_base Storage\\bms\\",
+    "FAULTS Observed":["PDU LOCK","IGNITION FAIL","UNDER TEMPERATURE","OVER TEMP","PRE CHARGE ERROR","BURN/BLAST",
+      "SCREW HOLDER ISSUE",	"MOSFET SHORT","CHARGING FAIL","DISCHARGING FAIL","CONNECTOR ISSUE","Physical",	"Other"]},
+  "HE315422": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315661": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315111":{"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE314801": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315591-32.11": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316571": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE315291-24.10": {
+    "Card Name":"DCIF",
+    "address": "D:\\Data_base Storage\\dcif\\",
+    "FAULTS Observed":["PHYSICAL","FRM NOT UPLOADING","CAN COMMM FAIL","CURRENT CHANNEL VERIFICATION FAIL",
+                      "TEMP CHANNEL FAIL","EEPROM FAIL","Not Getting On","HIGH CURRENT","Blast","Other"]
+  },
+  "HE316351-38.11": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316351-38.12": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316351-38.13": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316351-38.14": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE316351-38.15": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE317092-38.15": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]},
+  "HE317091-38.15": {"Card Name":"Not Mention",
+    "address": "D:\\Data_base Storage\\",
+    "FAULTS Observed":["NGO","Relay test fail","CAN test fail","High Current","Programming fail","High Current","Others"]}}

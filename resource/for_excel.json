@@ -1,0 +1,19 @@
+{
+  "db_header": "(Date_In,Card_no ,FPT_Test, Tested_by, Date, Shift)",
+  "excel_header": "",
+  "date_input": "Date_In DATE",
+  "card_name": "Card_Name VARCHAR(30)",
+  "card_code": "Card_code VARCHAR(15)",
+  "serial_no": "Serial_Number VARCHAR(30) PRIMARY KEY UNIQUE",
+  "tested_by" : "Tested_By VARCHAR(50)",
+  "tested_status": "Status VARCHAR(10)",
+  "ATE_fault": "Fault_ATE VARCHAR(70)",
+  "observed_fault": "Fault_Observe VARCHAR(70)",
+  "Key_Comp": "Key_Component VARCHAR(70)",
+  "Repair_Action": "Repair_Action VARCHAR(70)",
+  "R_Eng": "Repair_Engineer VARCHAR(70)",
+  "RT_Eng": "Retest Engineer VARCHAR(70)",
+  "R_Date": "Repairing_Date DATE",
+  "R_Status": "Repair_Status VARCHAR(20)",
+  "Remark": "Remark VARCHAR(100)"
+}

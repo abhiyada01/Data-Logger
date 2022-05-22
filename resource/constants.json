@@ -1,0 +1,5 @@
+{
+  "fault category": ["Component Fail","Component Missing","Soldering Issue","Solder Short","Broken Component","Polarity Issue","Other"],
+  "status": ["Pass","Fail","Scrap"],
+  "repairing_action": ["Component Change","Component Mount","Touch Up","Shorting Remove","Component Remount","Other"]
+}

@@ -1,0 +1,6 @@
+{
+  "testing_status": false,
+  "for_testing_gui": "Resources//for_gui.json",
+  "repairing_status": false,
+  "summary_status": true
+}
